@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Build/Products/Release-iphoneos/SnapKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SnapKit-Swift.h",
+          'external-contents': "/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Build/Products/Release-iphoneos/SnapKit.framework/Headers/SnapKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapKit.h",
+          'external-contents': "/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/SnapKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Build/Products/Release-iphoneos/SnapKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Build/Intermediates/SnapKit.build/Release-iphoneos/SnapKit iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "5d0d10b1c5353479a5ae5908c4160807"
+build_time: [497983226, 927556000]
+inputs: 
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/Debugging.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/LayoutConstraint.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ConstraintRelation.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ConstraintItem.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ViewController+SnapKit.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/Constraint.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/SnapKit.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ConstraintAttributes.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ConstraintMaker.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/View+SnapKit.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/ConstraintDescription.swift": [497983191, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Source/EdgeInsets.swift": [497983191, 0]

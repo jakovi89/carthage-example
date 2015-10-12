@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "860f950252ceb47ccaabee466a58bed9"
+build_time: [497983491, 506144000]
+inputs: 
+	"/Users/jakob/Development/vinther-moen/carthage-example/carthageexample/ViewController.swift": [497983489, 0]
+	"/Users/jakob/Development/vinther-moen/carthage-example/carthageexample/AppDelegate.swift": [497982905, 0]

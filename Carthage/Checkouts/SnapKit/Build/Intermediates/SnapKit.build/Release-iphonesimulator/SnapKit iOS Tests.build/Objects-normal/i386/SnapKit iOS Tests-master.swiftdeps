@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "d634cd8f3290ace42e1a1c81a07b8562"
+build_time: [497983236, 15616000]
+inputs: 
+	"/Users/jakob/Development/vinther-moen/carthage-example/Carthage/Checkouts/SnapKit/Tests/Tests.swift": [497983191, 0]
